@@ -5,11 +5,11 @@
 
 <!-- Typing headline with bigger font -->
 <a href="https://github.com/pranta2003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Pranta;A+Competitive+Programmer;A+Future+MERN+Developer&fontSize=60" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Pranta;A+Competitive+Programmer;A+Future+MERN+Developer&fontSize=120" alt="Typing SVG" />
 </a>
 
 <!-- Big space between headline and subheadline -->
-<div style="margin-top: 60px;"></div>
+<div style="margin-top: 120px;"></div>
 
 <!-- Big subheadline -->
 <h2 style="font-size: 40px; color:#2F81F7;">Turning ideas into clean code and pixel‑perfect UI</h2>
