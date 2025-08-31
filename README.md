@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Big Typing Headline -->
+<!-- Big Typing Headline split into 3 parts -->
 
-<a href="https://github.com/pranta2003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=Hello,+I'm+Pranta+a+competitive+programmer+and+a+future+MERN+full+stack+developer" alt="Typing SVG" />
-</a>
+<h1 style="font-size:36px; color:#2F81F7;">Hello, I'm Pranta</h1>
+<h2 style="font-size:32px; color:#FF5733;">a competitive programmer</h2>
+<h2 style="font-size:32px; color:#F7D154;">a future MERN software developer</h2>
 
 <!-- Big subheadline -->
 
@@ -89,17 +89,17 @@
 
 ---
 
-## 📫 Reach Me
+## 📫 Contact Me
 
-<p>
-* ✉️ Email: <strong><a href="mailto:your.email@gmail.com">your.email@gmail.com</a></strong><br>
-* 🔗 LinkedIn: <strong><a href="https://www.linkedin.com/in/your-linkedin-username/">your-linkedin-username</a></strong><br>
-* 🧮 Codeforces: <strong><a href="https://codeforces.com/profile/your-codeforces-handle">your-codeforces-handle</a></strong><br>
-* 🌐 Portfolio: <strong><a href="https://your-portfolio.site/">Portfolio</a></strong>
-</p>
+<div align="center">
+  <a href="mailto:your.email@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-username/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"></a>
+  <a href="https://codeforces.com/profile/your-codeforces-handle"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1F8ACB"></a>
+  <a href="https://your-portfolio.site/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=FF7139"></a>
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pranta2003&style=flat-square&color=FF5733" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pranta2003&style=flat-square&color=2f81f7" alt="Profile views" />
 </p>
