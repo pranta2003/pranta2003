@@ -70,11 +70,34 @@
 ## 📈 GitHub Stats
 
 <div align="center">
+
+<table>
+  <tr>
+    <!-- Stats Column -->
+    <td align="left" valign="top">
+      <h2 style="color:#2F81F7;">📊 GitHub Stats</h2>
+      <p>
+        <img alt="Stars" src="https://img.shields.io/badge/Stars-112-yellow?style=for-the-badge&logo=github&logoColor=white" /> <br><br>
+        <img alt="Commits" src="https://img.shields.io/badge/Commits-881-blue?style=for-the-badge&logo=github&logoColor=white" /> <br><br>
+        <img alt="PRs" src="https://img.shields.io/badge/PRs-15-green?style=for-the-badge&logo=github&logoColor=white" /> <br><br>
+        <img alt="Issues" src="https://img.shields.io/badge/Issues-2-red?style=for-the-badge&logo=github&logoColor=white" /> <br><br>
+        <img alt="Contributed to" src="https://img.shields.io/badge/Contributed_to-5-purple?style=for-the-badge&logo=github&logoColor=white" />
+      </p>
+    </td>
+
+    <!-- GitHub Logo Column -->
+    <td align="center" style="padding-left: 50px;" valign="middle">
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="150" alt="GitHub Logo" style="border-radius:20px;"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<div align="center" style="margin-top:30px;">
   <img height="170" alt="Pranta's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=pranta2003&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github" />
   <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranta2003&layout=compact&theme=tokyonight" />
 </div>
-
----
 
 ## 🏆 GitHub Trophies
 
