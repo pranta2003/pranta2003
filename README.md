@@ -5,11 +5,11 @@
 
 <!-- Typing headline with bigger font -->
 <a href="https://github.com/pranta2003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Pranta;A+Competitive+Programmer;A+Future+MERN+Developer&fontSize=120" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Pranta;A+Competitive+Programmer;A+Future+MERN+Developer&fontSize=30" alt="Typing SVG" />
 </a>
 
 <!-- Big space between headline and subheadline -->
-<div style="margin-top: 120px;"></div>
+<div style="margin-top: 70px;"></div>
 
 <!-- Big subheadline -->
 <h2 style="font-size: 40px; color:#2F81F7;">Turning ideas into clean code and pixel‑perfect UI</h2>
@@ -59,12 +59,10 @@
 <div align="center">
   <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="64" />
   <img alt="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="64" />
-  <img alt="Code::Blocks" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeblocks/codeblocks-original.svg" height="64" />
   <img alt="NetBeans" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="64" />
   <img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="64" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="64" />
   <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="64" />
-  <img alt="Terminal" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" height="64" />
 </div>
 
 ---
