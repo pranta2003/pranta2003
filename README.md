@@ -1,3 +1,6 @@
+<!-- README for GitHub profile repository named exactly `pranta2003`. -->
+<!-- Copy this whole file into your repo's README.md. Replace placeholders marked with 👉. -->
+
 <div align="center">
 
 <!-- Typing headline -->
@@ -5,21 +8,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Pranta;A+Competitive+Programmer;A+Future+MERN+Developer" alt="Typing SVG" />
 </a>
 
-<!-- Portfolio badge right after typing headline -->
-<p>
-  <a href="https://your-portfolio.site/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-</p>
-
 <!-- Big subheadline -->
 <h3 style="font-size: 36px; color: #2F81F7;">Turning ideas into clean code and pixel‑perfect UI</h3>
 
 <!-- Social badges -->
 <p>
+  <!-- Replace email, linkedin, codeforces, portfolio links below -->
   <a href="mailto:your.email@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/your-linkedin-username/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://codeforces.com/profile/your-codeforces-handle"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+  <a href="https://your-portfolio.site/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
 </p>
 
 </div>
@@ -43,7 +41,7 @@
 
 ---
 
-## ⚡ Frameworks
+## ⚙️ Frameworks
 
 <div align="center">
   <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="64" />
@@ -80,7 +78,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pranta2003&theme=onestar&no-bg=true&no-frame=true&margin-w=12" height="160" />
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pranta2003&theme=onestar&no-bg=true&no-frame=true&margin-w=12" />
 </div>
 
 ---
@@ -88,7 +86,7 @@
 ## 📊 Contribution Graph
 
 <div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pranta2003&theme=react-dark&hide_border=false" height="250" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pranta2003&theme=react-dark&hide_border=false" />
 </div>
 
 ---
@@ -101,6 +99,8 @@
   <a href="https://codeforces.com/profile/your-codeforces-handle"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://your-portfolio.site/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </div>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pranta2003&style=flat-square&color=2f81f7" alt="Profile views" />
