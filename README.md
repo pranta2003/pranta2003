@@ -84,7 +84,6 @@
         <img alt="Contributed to" src="https://img.shields.io/badge/Contributed_to-5-purple?style=for-the-badge&logo=github&logoColor=white" />
       </p>
     </td>
-
     <!-- GitHub Logo Column -->
     <td align="center" style="padding-left: 50px;" valign="middle">
       <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="150" alt="GitHub Logo" style="border-radius:20px;"/>
