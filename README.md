@@ -66,21 +66,30 @@
 ---
 
 # 📊 GitHub Stats
-<!-- GitHub Stats Cards -->
+
+<div align="center">
+
+  <!-- Typing headline -->
+  <a href="https://github.com/pranta2003">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=2F81F7&center=true&vCenter=true&width=1200&lines=Hello%2C+I'm+Pranta;A+Competitive+Programmer;A+Future+MERN+Developer&fontSize=50" alt="Typing SVG" />
+  </a>
+
+  <br><br>
+
+  <!-- GitHub Stats -->
   <h2 style="color:#2F81F7;">📊 GitHub Stats</h2>
 
-  <!-- Total Stats (Commits, Stars, Repos, Followers) -->
+  <!-- Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=pranta2003&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="170" style="margin:10px;" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranta2003&layout=compact&theme=tokyonight" alt="Top Languages" height="170" style="margin:10px;" />
+  <!-- Top Languages (count by number of repos to ensure JS shows) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranta2003&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="170" style="margin:10px;" />
 
   <!-- GitHub Streak / Contributions -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&theme=tokyonight" alt="GitHub Streak" height="170" style="margin:10px;" />
 
 </div>
 
-<br/>
 
 # 🏆 GitHub Trophies
 <br/>
