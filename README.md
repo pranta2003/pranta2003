@@ -1,11 +1,9 @@
-<div align="center">
-
-  <!-- Typing headline with bigger font and bold -->
-  <a href="https://github.com/pranta2003">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=2F81F7&center=true&vCenter=true&width=1200&lines=Hello%2C+I'm+Pranta;A+Competitive+Programmer;A+Future+MERN+Developer&fontSize=70" alt="Typing SVG" />
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=600&lines=Hi+!+I'm+Pranta;Competitive+Programmer;Learning:+MERN+Stack" alt="Typing SVG" />
   </a>
+</h2>
 
-</div>
 
 
 <!-- Big space between headline and subheadline -->
