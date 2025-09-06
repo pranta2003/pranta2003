@@ -94,12 +94,6 @@
 <br/>
 
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pranta2003&theme=onestar&no-bg=true&no-frame=true&margin-w=12" />
-</div>
-
 ---
 
 ## 📊 Contribution Graph
