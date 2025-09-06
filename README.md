@@ -66,17 +66,18 @@
 ---
 
 # 📊 GitHub Stats
-<br/>
+<!-- GitHub Stats Cards -->
+  <h2 style="color:#2F81F7;">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/alifjobaer12?cardType=github&theme=react&preferLogin=true" alt="GitHub Stats" />
-  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=alifjobaer12&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
-</div>
+  <!-- Total Stats (Commits, Stars, Repos, Followers) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pranta2003&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="170" style="margin:10px;" />
 
-<br/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranta2003&layout=compact&theme=tokyonight" alt="Top Languages" height="170" style="margin:10px;" />
 
-<div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifjobaer12&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <!-- GitHub Streak / Contributions -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&theme=tokyonight" alt="GitHub Streak" height="170" style="margin:10px;" />
+
 </div>
 
 <br/>
