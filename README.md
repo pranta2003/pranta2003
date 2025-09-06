@@ -1,12 +1,12 @@
-<!-- README for GitHub profile repository named exactly `pranta2003`. -->
-<!-- Copy this whole file into your repo's README.md. Replace placeholders marked with 👉. -->
-
 <div align="center">
 
-<!-- Typing headline with bigger font -->
-<a href="https://github.com/pranta2003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Pranta;A+Competitive+Programmer;A+Future+MERN+Developer&fontSize=30" alt="Typing SVG" />
-</a>
+  <!-- Typing headline with bigger font and bold -->
+  <a href="https://github.com/pranta2003">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=2F81F7&center=true&vCenter=true&width=1200&lines=Hello%2C+I'm+Pranta;A+Competitive+Programmer;A+Future+MERN+Developer&fontSize=50" alt="Typing SVG" />
+  </a>
+
+</div>
+
 
 <!-- Big space between headline and subheadline -->
 <div style="margin-top: 70px;"></div>
