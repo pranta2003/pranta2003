@@ -73,7 +73,7 @@
 
 <div align="center">
   <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/pranta2003?cardType=github&theme=react&preferLogin=true" alt="GitHub Stats" />
-<img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
+<img width="440" src="https://streak-stats.demolab.com/?user=pranta2003&theme=react&hide_border=false&border_radius=10" alt="Streak Stats"/>
 </div>
 
 <br/>
