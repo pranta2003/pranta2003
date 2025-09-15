@@ -73,19 +73,16 @@
 
 <div align="center">
   <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/pranta2003?cardType=github&theme=react&preferLogin=true" alt="GitHub Stats" />
-<div align="center">
-  <img width="440" src="https://streak-stats.demolab.com?user=pranta2003&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
-</div>
-
+<img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
 </div>
 
 <br/>
-
 
 <div align="center">
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranta2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
+<br/>
 
 
 <br/>
