@@ -91,18 +91,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pranta2003&theme=onestar&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
+## 📊 Contribution Graph
+
 <hr/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranta2003&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 <br/>
 
-## 📊 Contribution Graph
-
-<div align="center">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=pranta2003&theme=react-dark&hide_border=false" />
-</div>
-
----
 
 ## 📫 Reach Me
 
