@@ -70,7 +70,6 @@
 
 # 📊 GitHub Stats
 <br/>
-<img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/pranta2003?cardType=github&theme=tokyonight" alt="GitHub Stats" />
 
 <div align="center">
   <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/pranta2003?cardType=github&theme=tokyonight" alt="GitHub Stats" />
