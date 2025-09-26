@@ -69,18 +69,19 @@
 ---
 
 # 📊 GitHub Stats
-<br/>
 
 <div align="center">
   <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/pranta2003?cardType=github&theme=react&preferLogin=true" alt="GitHub Stats" />
- <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&count_private=true&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
+  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&count_private=true&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranta2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+  <!-- top-langs with cache_seconds and adjusted weight example -->
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranta2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&cache_seconds=14400&size_weight=0.6&count_weight=0.4" alt="Top Languages" />
 </div>
+
 
 <br/>
 
