@@ -82,11 +82,6 @@
 
 <br/>
 
-<div align="center">
-  <!-- Top Languages -->
-  <img width="325" src="https://github-readme-stats-iota-vert-52.vercel.app/api/top-langs/?username=pranta2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
-</div>
-
 
 <br/>
 
