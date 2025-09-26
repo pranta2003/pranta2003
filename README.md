@@ -73,15 +73,9 @@
 
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=pranta2003&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" width="50%" />
-  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&count_private=true&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&theme=highcontrast&hide_border=false" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranta2003&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" width="50%" />
 </div>
-
-<br/>
-
-<div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranta2003&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
-</div>
-
 <br/>
 
 
