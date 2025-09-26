@@ -72,7 +72,7 @@
 <br/>
 
 <div align="center">
-  <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/pranta2003?cardType=github&theme=tokyonight" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=pranta2003&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" width="50%" />
   <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&count_private=true&theme=tokyonight&border_radius=10" alt="Streak Stats"/>
 </div>
 
