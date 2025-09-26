@@ -70,8 +70,11 @@
 
 # 📊 GitHub Stats
 <br/>
+[![Commits](https://img.shields.io/github/commit-activity/t/OWNER/REPO/main?style=flat-square)](https://github.com/OWNER/REPO/commits/main)
+[![Stars](https://img.shields.io/github/stars/OWNER/REPO?style=flat-square)](https://github.com/OWNER/REPO/stargazers)
+[![Forks](https://img.shields.io/github/forks/OWNER/REPO?style=flat-square)](https://github.com/OWNER/REPO/network/members)
+[![Open Issues](https://img.shields.io/github/issues/OWNER/REPO?style=flat-square)](https://github.com/OWNER/REPO/issues)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranta2003&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 
 
 <div align="center">
