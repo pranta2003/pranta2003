@@ -70,7 +70,9 @@
 
 # 📊 GitHub Stats
 <br/>
+![pranta2003's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranta2003&show_icons=true&count_private=true&theme=tokyonight)
 
+<img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/pranta2003?cardType=github&theme=tokyonight&showIcons=true&includeCommits=true&includeStars=true&includePRs=true" alt="GitHub Stats" />
 
 <div align="center">
   <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/pranta2003?cardType=github&theme=tokyonight" alt="GitHub Stats" />
