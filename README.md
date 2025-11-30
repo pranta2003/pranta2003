@@ -64,11 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="64"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00F000&center=true&vCenter=true&width=170&height=64&lines=H2+Database" />
-
-
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F000&width=435&lines=MySQL+%7C+MongoDB+%7C+H2+Database;Fast+%26+Secure+Data+Storage;Optimized+for+Enterprise+Apps" />
 </div>
 
 ---
@@ -85,7 +80,7 @@
   <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="64" />
   <img alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="64" />
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="64" />
-  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="64" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/github-light.svg" height="64" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=170&height=64&lines=CodeBlocks" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00D0FF&center=true&vCenter=true&width=170&height=64&lines=curl" />
 
