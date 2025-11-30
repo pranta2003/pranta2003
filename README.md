@@ -56,11 +56,11 @@
 
 ---
 
-<div align="center">
+
 
 ## 🗄️ Databases
 
-<p>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="64"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00F000&center=true&vCenter=true&width=170&height=64&lines=H2+Database" />
