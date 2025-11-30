@@ -1,9 +1,9 @@
 <h2 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Pranta;Competitive+Programmer;Learning:+MERN+Stack" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Pranta;Competitive+Programmer;Learning:+JAVA+SPRING+BOOT+MERN+Stack" alt="Typing SVG" /></a>
  <h2/>
 <br/>
 <h4 align="center">
-  - 🔭 <strong>Exploring:</strong> JAVA || SPRING BOOT ||MERN Stack  
+  - 🔭 <strong>Exploring:</strong> JAVA || SPRING BOOT || MERN Stack  
   - 🌱 <strong>Learning:</strong> Competitive Programming  
   - 🌐 <strong>Portfolio:</strong> <a href="https://pranta.live/" target="_blank">visit</a>  
 </h4>
