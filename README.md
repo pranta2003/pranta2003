@@ -3,7 +3,7 @@
  <h2/>
 <br/>
 <h4 align="center">
-  - 🔭 <strong>Exploring:</strong> JAVA || MERN Stack  
+  - 🔭 <strong>Exploring:</strong> JAVA || SPRING BOOT ||MERN Stack  
   - 🌱 <strong>Learning:</strong> Competitive Programming  
   - 🌐 <strong>Portfolio:</strong> <a href="https://pranta.live/" target="_blank">visit</a>  
 </h4>
