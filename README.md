@@ -75,13 +75,23 @@
 ## 🧰 Tools
 
 <div align="center">
+
   <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="64" />
   <img alt="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="64" />
   <img alt="NetBeans" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="64" />
   <img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="64" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="64" />
   <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="64" />
+  <img alt="CodeBlocks" src="https://raw.githubusercontent.com/rrwick/homopolymer/master/images/codeblocks.png" height="64" />
+  <img alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="64" />
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="64" />
+  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="64" />
+  <img alt="Curl" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/curl/curl-original.svg" height="64" />
+
+  <img alt="EchoAPI" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00F0FF&center=true&vCenter=true&width=160&height=64&lines=EchoAPI" />
+
 </div>
+
 
 ---
 
