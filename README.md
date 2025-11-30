@@ -49,7 +49,7 @@
 <div align="center">
   <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="64" />
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="64" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="64" />
 
  
 </div>
@@ -63,7 +63,8 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h2database/h2database-original.png" height="64"/>
+  <img src="https://raw.githubusercontent.com/andimiller/h2-icon/master/h2.png" height="64" />
+
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00F000&width=435&lines=MySQL+%7C+MongoDB+%7C+H2+Database;Fast+%26+Secure+Data+Storage;Optimized+for+Enterprise+Apps" />
