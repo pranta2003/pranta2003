@@ -28,7 +28,7 @@
 
 <hr/>
 
-## 🛠️ Languages & Frameworks
+## 🛠️ Languages
 
 <div align="center">
   <!-- Core languages -->
@@ -51,10 +51,26 @@
   <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="64" />
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="64" />
   <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="64" />
-    <img alt="Spring-boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring-boot/springboot-original.svg" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg" height="64" />
  
 </div>
 
+---
+---
+<div align="center">
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="64" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/h2database/h2database-original.svg" height="64" />
+</p>
+
+<!-- Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=38F70C&width=435&lines=MySQL+%7C+MongoDB+%7C+H2+Database;Reliable+and+Optimized+Data+Storage;Secure+%26+High+Performance+DB+Design" alt="Typing SVG" />
+
+</div>
 ---
 
 ## 🧰 Tools
