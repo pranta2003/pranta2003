@@ -63,7 +63,8 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="64"/>
-  <img src="https://raw.githubusercontent.com/andimiller/h2-icon/master/h2.png" height="64" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00F000&center=true&vCenter=true&width=170&height=64&lines=H2+Database" />
+
 
 </p>
 
@@ -82,11 +83,12 @@
   <img alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="64" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="64" />
   <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="64" />
-  <img alt="CodeBlocks" src="https://raw.githubusercontent.com/rrwick/homopolymer/master/images/codeblocks.png" height="64" />
   <img alt="Swagger" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" height="64" />
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="64" />
   <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="64" />
-  <img alt="Curl" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/curl/curl-original.svg" height="64" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=FFD700&center=true&vCenter=true&width=170&height=64&lines=CodeBlocks" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00D0FF&center=true&vCenter=true&width=170&height=64&lines=curl" />
+
 
   <img alt="EchoAPI" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=500&color=00F0FF&center=true&vCenter=true&width=160&height=64&lines=EchoAPI" />
 
