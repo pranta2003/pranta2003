@@ -118,8 +118,9 @@
 ## 📊 Contribution Graph
 
 <hr/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranta2003&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranta2003&theme=react-dark&hide_border=true" />
+</div>
 <br/>
 
 
