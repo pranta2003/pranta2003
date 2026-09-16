@@ -138,7 +138,43 @@
 </div>
 
 ---
+---
 
+# 🚀 GitHub Activity & Workflow
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Git-Expertise-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-Active-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Reviews-Collaboration-2DA44E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💻 How I Work
+
+</div>
+
+- 🌿 **Branch-Based Development:** Working with feature branches to organize development.
+- 📝 **Meaningful Commits:** Writing clear and structured commit messages.
+- 🔀 **Pull Requests:** Using PRs to manage and review important changes.
+- 🔍 **Code Reviews:** Reviewing code to improve quality and maintainability.
+- ⚙️ **CI/CD:** Working with automated checks and development workflows.
+- 🚀 **Continuous Improvement:** Learning and improving my development practices through real-world projects.
+
+<br/>
+
+<div align="center">
+
+> "Every commit is a step forward. Every pull request is an opportunity to improve."
+
+</div>
+
+---
 <p align="center"
   <img src="https://komarev.com/ghpvc/?username=pranta2003&style=flat-square&color=2f81f7" alt="Profile views" />
 </p>
