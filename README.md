@@ -1,4 +1,4 @@
-<h2 align="center">
+<img width="733" height="333" alt="image" src="https://github.com/user-attachments/assets/29c7c518-ec0a-4777-9e4c-fe8851fdc3d6" /><h2 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Pranta;Competitive+Programmer;Learning:+JAVA;SPRING+BOOT,+MERN+Stack" alt="Typing SVG" /></a>
  <h2/>
 <br/>
@@ -126,6 +126,44 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranta2003&theme=react-dark&hide_border=true" />
 </div>
 <br/>
+
+---
+
+# 🚀 GitHub Activity & Workflow
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Git-Expertise-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-Active-8957E5?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code%20Reviews-Collaboration-2DA44E?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💻 How I Work
+
+</div>
+
+- 🌿 **Branch-Based Development:** Working with feature branches to organize development.
+- 📝 **Meaningful Commits:** Writing clear and structured commit messages.
+- 🔀 **Pull Requests:** Using PRs to manage and review important changes.
+- 🔍 **Code Reviews:** Reviewing code to improve quality and maintainability.
+- ⚙️ **CI/CD:** Working with automated checks and development workflows.
+- 🚀 **Continuous Improvement:** Learning and improving my development practices through real-world projects.
+
+<br/>
+
+<div align="center">
+
+> "Every commit is a step forward. Every pull request is an opportunity to improve."
+
+</div>
+
+---
 
 
 ## 📫 Reach Me
