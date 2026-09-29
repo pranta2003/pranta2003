@@ -94,15 +94,12 @@
 
 ---
 
----
-
----
 
 <h2 align="center">📊 Git Analytics</h2>
 
 <p align="center">
-  <img height="165" src="https://awesome-github-stats.azurewebsites.net/user-stats/pranta2003?cardType=github&theme=discord&fontFamily=Zen%20Maru%20Gothic&preferLogin=false&Ring=C59B62&Title=C59B62&Background=030303&Text=FFFFFF&Border=1A1A1A&borderRadius=8" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=pranta2003&layout=compact&theme=discord&bg_color=030303&text_color=ffffff&title_color=C59B62&border_color=1a1a1a&border_radius=8&card_width=400" alt="Top Languages" />
+  <img height="165" src="https://awesome-github-stats.azurewebsites.net/user-stats/pranta2003?cardType=github&theme=tokyonight&fontFamily=Zen%20Maru%20Gothic&preferLogin=false&Ring=C59B62&Title=C59B62&Background=030303&Text=FFFFFF&Border=1A1A1A&borderRadius=8" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=pranta2003&layout=compact&theme=tokyonight&bg_color=030303&text_color=ffffff&title_color=C59B62&border_color=1a1a1a&border_radius=8&card_width=400" alt="Top Languages" />
 </p>
 
 <p align="center">
