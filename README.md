@@ -126,7 +126,7 @@
 
 <hr/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranta2003&theme=react-dark&hide_border=true" />
+  <img width="90%" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=pranta2003&theme=discord&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 <br/>
 
