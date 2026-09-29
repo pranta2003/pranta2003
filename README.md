@@ -117,7 +117,7 @@
 
 <div align="center">
   <img
-    src="https://github-trophies.vercel.app/?username=pranta2003&theme=onedark&no-frame=true&margin-w=4&column=7"
+    src="https://github-trophies.vercel.app/?username=pranta2003&theme=discord&no-frame=true&margin-w=4&column=7"
     alt="GitHub Trophies"
   />
 </div>
