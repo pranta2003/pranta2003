@@ -94,44 +94,33 @@
 
 ---
 
-# 📊 GitHub Stats
-<br/>
+---
 
-<div align="center">
+<h2 align="center">📊 Git Analytics</h2>
 
-  <!-- Top Languages -->
+<p align="center">
   <img
-    width="400"
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranta2003&layout=compact&theme=react&hide_border=true&border_radius=10&langs_count=8&hide=html"
-    alt="Top Languages"
-  />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img
-    width="400"
-    src="https://github-readme-stats.vercel.app/api?username=pranta2003&show_icons=true&theme=react&hide_border=true&border_radius=10"
+    height="165"
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/pranta2003?cardType=github&theme=tokyonight&fontFamily=Inter&preferLogin=false&Ring=58A6FF&Title=58A6FF&Background=0D1117&Text=FFFFFF&Border=30363D&borderRadius=8"
     alt="GitHub Stats"
   />
 
-  <!-- GitHub Streak -->
   <img
-    width="400"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&count_private=true&theme=react&hide_border=true&border_radius=10"
+    height="165"
+    src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=pranta2003&layout=compact&theme=tokyonight&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&border_color=30363D&border_radius=8&card_width=400&langs_count=8&hide=html,jupyter%20notebook"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com/?user=pranta2003&background=0D1117&border=30363D&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E&border_radius=8"
     alt="GitHub Streak"
   />
+</p>
 
-</div>
-
-<br/>
-
-<br/>
-
+---
 # 🏆 GitHub Trophies
 <br/>
 
