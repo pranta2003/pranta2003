@@ -116,7 +116,10 @@
 <br/>
 
 <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=pranta2003&theme=onestar&no-frame=true&margin-w=4" alt="GitHub Trophies" />
+  <img
+    src="https://github-trophies.vercel.app/?username=pranta2003&theme=onedark&no-frame=true&margin-w=4&column=7"
+    alt="GitHub Trophies"
+  />
 </div>
 
 ## 📊 Contribution Graph
