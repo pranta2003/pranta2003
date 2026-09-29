@@ -98,7 +98,7 @@
 <br/>
 
 <div align="center">
- <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranta2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
+ <img width="65%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranta2003&layout=compact&theme=discord&hide_border=true&langs_count=8&hide=html" alt="Top Languages" />
 
  
 </div>
