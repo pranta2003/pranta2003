@@ -98,17 +98,37 @@
 <br/>
 
 <div align="center">
- <img width="65%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranta2003&layout=compact&theme=discord&hide_border=true&langs_count=8&hide=html" alt="Top Languages" />
 
- 
+  <!-- Top Languages -->
+  <img
+    width="400"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranta2003&layout=compact&theme=react&hide_border=true&border_radius=10&langs_count=8&hide=html"
+    alt="Top Languages"
+  />
+
 </div>
 
-<div align="center">
- <img width="390" src="https://awesome-github-stats.azurewebsites.net/user-stats/pranta2003?cardType=github&theme=react&preferLogin=true" alt="GitHub Stats" />
-  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
-</div>
 <br/>
 
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img
+    width="400"
+    src="https://github-readme-stats.vercel.app/api?username=pranta2003&show_icons=true&theme=react&hide_border=true&border_radius=10"
+    alt="GitHub Stats"
+  />
+
+  <!-- GitHub Streak -->
+  <img
+    width="400"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=pranta2003&count_private=true&theme=react&hide_border=true&border_radius=10"
+    alt="GitHub Streak"
+  />
+
+</div>
+
+<br/>
 
 <br/>
 
