@@ -1,3 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pranta%20Kumer%20Pandit&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Web%20%C2%B7%20Mobile%20%C2%B7%20Backend&descAlignY=58&descSize=16" />
+
+
 <h2 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Pranta;Competitive+Programmer;Learning:+JAVA;SPRING+BOOT,+MERN+Stack" alt="Typing SVG" /></a>
  <h2/>
