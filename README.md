@@ -140,10 +140,10 @@
   <a href="https://pranta.live/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </div>
 
----
+<p align="center">
 
-<p align="center"
-  <img src="https://komarev.com/ghpvc/?username=pranta2003&style=flat-square&color=2f81f7" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=pranta2003&style=for-the-badge"/>
+
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,35:064E3B,70:0D9488,100:06B6D4&height=100&section=footer" />
