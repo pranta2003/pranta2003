@@ -130,9 +130,8 @@
 </div>
 <br/>
 
-<p align="center">
-<img src="https://holopin.me/pranta2003"/>
-</p>
+
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
 ## 📫 Reach Me
 
