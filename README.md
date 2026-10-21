@@ -130,6 +130,9 @@
 </div>
 <br/>
 
+<p align="center">
+<img src="https://holopin.me/pranta2003"/>
+</p>
 
 ## 📫 Reach Me
 
@@ -140,6 +143,7 @@
   <a href="https://pranta.live/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
 </div>
 
+---
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=pranta2003&style=for-the-badge"/>
