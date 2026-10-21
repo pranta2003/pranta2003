@@ -5,13 +5,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,35:064E3B,70:0D9488,100:06B6D4&height=220&section=header&text=Pranta%20Kumer%20Pandit&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Web%20%C2%B7%20Mobile%20%C2%B7%20Backend&descAlignY=58&descSize=16" />
 
-<h2 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Competitive+Programmer;Learning:+JAVA;SPRING+BOOT,+MERN+Stack" alt="Typing SVG" /></a>
- <h2/>
   
 <br/>
 <h4 align="center">
-  - 🔭 <strong>Exploring:</strong> JAVA || SPRING BOOT || MERN Stack  
+  - 🔭 <strong>Exploring:</strong> TypeScript || Node.js || MERN Stack || Python  
   - 🌱 <strong>Learning:</strong> Competitive Programming  
   - 🌐 <strong>Portfolio:</strong> <a href="https://pranta.live/" target="_blank">visit</a>  
 </h4>
