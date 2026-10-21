@@ -1,12 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,35:064E3B,70:0D9488,100:06B6D4&height=220&section=header&text=Pranta%20Kumer%20Pandit&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Web%20%C2%B7%20Mobile%20%C2%B7%20Backend&descAlignY=58&descSize=16" />
+
 
 
 ![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,35:064E3B,70:0D9488,100:06B6D4&height=220&section=header&text=Pranta%20Kumer%20Pandit&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Web%20%C2%B7%20Mobile%20%C2%B7%20Backend&descAlignY=58&descSize=16" />
 
 <h2 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Pranta;Competitive+Programmer;Learning:+JAVA;SPRING+BOOT,+MERN+Stack" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=406DF7&width=435&lines=Hi+!+%2C+I'm+Competitive+Programmer;Learning:+JAVA;SPRING+BOOT,+MERN+Stack" alt="Typing SVG" /></a>
  <h2/>
   
 <br/>
